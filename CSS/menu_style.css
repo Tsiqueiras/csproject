@@ -1,0 +1,19 @@
+header {
+    font-family: Poppins;
+    font-size: x-large;
+    background-color: rgb(68, 58, 58);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    
+    font-family: Poppins;
+    margin: 20;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(94, 82, 82);
+    text-align: left;
+}
+

@@ -1,0 +1,28 @@
+header {
+    font-family: Poppins;
+    font-size: xxx-large;
+    background-color: rgb(255, 255, 255);
+    color: rgb(94, 82, 82);
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    
+    font-family: Poppins;
+    margin: 15;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(94, 82, 82);
+    text-align: center;
+}
+
+ul {
+    
+    font-family: Poppins;
+    margin: 50;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(94, 82, 82);
+    text-align: center;
+}
